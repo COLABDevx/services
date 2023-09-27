@@ -4,5 +4,9 @@
     "client_id": "1154504492931350618",
     "response_type": "token",
      "scope": "identify"
+  },
+  "server": {
+    "url": "http://localhost:30790/api",
+    "port": 30790
   }
 }
