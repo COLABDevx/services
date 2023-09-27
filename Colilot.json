@@ -1,0 +1,8 @@
+{
+  "discord": {
+    "redirect_uri": "http://localhost:30790/api/discord-signin-callback",
+    "client_id": 1154504492931350618,
+    "response_type": "token",
+     "scope": "identify"
+  }
+}
